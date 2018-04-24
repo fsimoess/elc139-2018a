@@ -1,6 +1,6 @@
-elc139 - Programação Paralela
+[Programação Paralela](https://github.com/AndreaInfUFSM/elc139-2018a) > Trabalhos
 
-Filipe Simões e João Vitor Machado de Mello
+Nomes: Filipe Simões, João Vitor Machado de Mello
 
 ## Abordagens
 
