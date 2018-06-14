@@ -7,3 +7,5 @@ elc139-2018a - Programação Paralela
 [Código 1](t8/matriz_multi_ex1.c)
 
 [Código 2](t8/matriz_multi_ex2.c)
+
+# Referências
