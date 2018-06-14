@@ -9,3 +9,5 @@ elc139-2018a - Programação Paralela
 [Código 2](t8/matriz_multi_ex2.c)
 
 # Referências
+
+[MPI Tutorial](http://mpitutorial.com/tutorials/mpi-scatter-gather-and-allgather/)
