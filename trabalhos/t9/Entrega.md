@@ -4,8 +4,9 @@ Filipe Simões
 
 ## Códigos
 
-[t9/mandelbrot.cpp]Original Modificado
-[t9/mandelbrot_omp.cpp]Paralelizado
+[Original Modificado](t9/mandelbrot.cpp)
+
+[Paralelizado](t9/mandelbrot_omp.cpp)
 
 ## Slides
 
