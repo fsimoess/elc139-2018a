@@ -10,4 +10,6 @@ Filipe Simões
 
 ## Slides
 
+[Slide](t9/slides.pdf)
+
 ## Referências
